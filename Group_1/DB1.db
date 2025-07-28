@@ -2,8 +2,13 @@
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
 NON_RETAIN
+   VAR 
+      something : Bool;
+   END_VAR
+
 
 BEGIN
+   something := true;
 
 END_DATA_BLOCK
 
