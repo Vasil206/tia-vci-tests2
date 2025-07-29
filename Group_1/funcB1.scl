@@ -4,5 +4,7 @@ VERSION : 0.1
 
 BEGIN
 	//some code
+	//
+	//
 END_FUNCTION_BLOCK
 
